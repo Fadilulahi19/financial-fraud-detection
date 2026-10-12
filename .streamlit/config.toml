@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#FF4B4B"                  # Color for interactive widgets (buttons, sliders, e.t.c)
+backgroundColor = "#0E1117"               # Main body background color
+secondaryBackgroundColor = "#262730"      # Sidebar and widget background color
+textColor = "FAFAFA"                      # General body text color
+font = "sans serif"                       # Options: "sans serif", "serif", or "monospace"
+borderRadius = "8px"                      # Roundness of buttons and widgets

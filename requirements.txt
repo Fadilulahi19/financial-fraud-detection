@@ -1,0 +1,23 @@
+# Fraud Detection — Feasibility Study
+# Install with: pip install -r requirements.txt
+
+# Core data science
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+
+# Modeling
+scikit-learn>=1.3
+xgboost>=2.0
+
+# Notebook
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.25
+nbformat>=5.9
+nbconvert>=7.10
+
+# App
+streamlit>=1.30
+
+# SQL investigation (sqlite3 is part of the Python standard library — no install needed)

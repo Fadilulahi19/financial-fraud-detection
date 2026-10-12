@@ -1,6 +1,6 @@
 # Fraud Detection — Feasibility Study
 
-A feasibility assessment and pilot recommendation for fraud detection at Moniepoint, commissioned by the Head of Data Science on behalf of Head of Fraud Ops. This is **not** a production deployment — it's an evidence-based evaluation of whether a supervised model can meet a target of 80% precision and 80% recall, using the tools and data currently available.
+A feasibility assessment and pilot recommendation for fraud detection at a Fintach company. This is **not** a production deployment — it's an evidence-based evaluation of whether a supervised model can meet a target of 80% precision and 80% recall, using the tools and data currently available.
 
 ## Key finding
 
